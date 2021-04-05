@@ -30,4 +30,4 @@ print(f'''{t.format_icon()}
 
 [__{t.format_name()}__]({t.format_invite()}){t.format_official()}{t.format_reddit()}{t.format_homepage()}{t.format_git()} \\
 Notable Channels: {t.format_channels()} \\
-Language: {t.format_language()}{t.padding()}''')
+Language: {t.format_language()}{t.paddinbbg()}''')
